@@ -2,7 +2,7 @@
 
 <br>
 <br>
-Task 2 : Exploratory-Data-Analysis---Retail <br>
+Task 3: Exploratory-Data-Analysis---Retail <br>
 Level: Beginner<br>
  Query : Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
 As a business manager, try to find out the weak areas where you can work to make more profit.<br>
